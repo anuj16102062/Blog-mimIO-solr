@@ -1,0 +1,610 @@
+{
+  "blogs": [
+    {
+      "id": 150,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 150",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-09-12T00:00:00.000Z"
+    },
+    {
+      "id": 151,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 151",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-12-29T00:00:00.000Z"
+    },
+    {
+      "id": 152,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 152",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-07-02T00:00:00.000Z"
+    },
+    {
+      "id": 153,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 153",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-05-17T00:00:00.000Z"
+    },
+    {
+      "id": 154,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 154",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-03-02T00:00:00.000Z"
+    },
+    {
+      "id": 155,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 155",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-07-14T00:00:00.000Z"
+    },
+    {
+      "id": 156,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 156",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-09-26T00:00:00.000Z"
+    },
+    {
+      "id": 157,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 157",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-09-28T00:00:00.000Z"
+    },
+    {
+      "id": 158,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 158",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-10-23T00:00:00.000Z"
+    },
+    {
+      "id": 159,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 159",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-12-21T00:00:00.000Z"
+    },
+    {
+      "id": 160,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 160",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-07-29T00:00:00.000Z"
+    },
+    {
+      "id": 161,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 161",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-01-19T00:00:00.000Z"
+    },
+    {
+      "id": 162,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 162",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-10-16T00:00:00.000Z"
+    },
+    {
+      "id": 163,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 163",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-12-06T00:00:00.000Z"
+    },
+    {
+      "id": 164,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 164",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-08-20T00:00:00.000Z"
+    },
+    {
+      "id": 165,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 165",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-06-28T00:00:00.000Z"
+    },
+    {
+      "id": 166,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 166",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-09-19T00:00:00.000Z"
+    },
+    {
+      "id": 167,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 167",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-12-20T00:00:00.000Z"
+    },
+    {
+      "id": 168,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 168",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-02-12T00:00:00.000Z"
+    },
+    {
+      "id": 169,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 169",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-11-22T00:00:00.000Z"
+    },
+    {
+      "id": 170,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 170",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-01-22T00:00:00.000Z"
+    },
+    {
+      "id": 171,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 171",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-07-11T00:00:00.000Z"
+    },
+    {
+      "id": 172,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 172",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-08-04T00:00:00.000Z"
+    },
+    {
+      "id": 173,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 173",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-05-08T00:00:00.000Z"
+    },
+    {
+      "id": 174,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 174",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-02-25T00:00:00.000Z"
+    },
+    {
+      "id": 175,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 175",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-12-01T00:00:00.000Z"
+    },
+    {
+      "id": 176,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 176",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-11-01T00:00:00.000Z"
+    },
+    {
+      "id": 177,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 177",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-10-25T00:00:00.000Z"
+    },
+    {
+      "id": 178,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 178",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-07-19T00:00:00.000Z"
+    },
+    {
+      "id": 179,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 179",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-01-12T00:00:00.000Z"
+    },
+    {
+      "id": 180,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 180",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-04-08T00:00:00.000Z"
+    },
+    {
+      "id": 181,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 181",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-04-30T00:00:00.000Z"
+    },
+    {
+      "id": 182,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 182",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-05-01T00:00:00.000Z"
+    },
+    {
+      "id": 183,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 183",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-04-25T00:00:00.000Z"
+    },
+    {
+      "id": 184,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 184",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-12-05T00:00:00.000Z"
+    },
+    {
+      "id": 185,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 185",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-09-05T00:00:00.000Z"
+    },
+    {
+      "id": 186,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 186",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-05-23T00:00:00.000Z"
+    },
+    {
+      "id": 187,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 187",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-01-20T00:00:00.000Z"
+    },
+    {
+      "id": 188,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 188",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-06-23T00:00:00.000Z"
+    },
+    {
+      "id": 189,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 189",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-08-23T00:00:00.000Z"
+    },
+    {
+      "id": 190,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 190",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-11-11T00:00:00.000Z"
+    },
+    {
+      "id": 191,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 191",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-11-06T00:00:00.000Z"
+    },
+    {
+      "id": 192,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 192",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-10-03T00:00:00.000Z"
+    },
+    {
+      "id": 193,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 193",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-07-24T00:00:00.000Z"
+    },
+    {
+      "id": 194,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 194",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-09-23T00:00:00.000Z"
+    },
+    {
+      "id": 195,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 195",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-04-30T00:00:00.000Z"
+    },
+    {
+      "id": 196,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 196",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-12-21T00:00:00.000Z"
+    },
+    {
+      "id": 197,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 197",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-08-14T00:00:00.000Z"
+    },
+    {
+      "id": 198,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 198",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-09-27T00:00:00.000Z"
+    },
+    {
+      "id": 199,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 199",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-07-02T00:00:00.000Z"
+    },
+    {
+      "id": 200,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 200",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-02-22T00:00:00.000Z"
+    },
+    {
+      "id": 201,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 201",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-06-17T00:00:00.000Z"
+    },
+    {
+      "id": 202,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 202",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-08-22T00:00:00.000Z"
+    },
+    {
+      "id": 203,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 203",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-05-26T00:00:00.000Z"
+    },
+    {
+      "id": 204,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 204",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-02-13T00:00:00.000Z"
+    },
+    {
+      "id": 205,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 205",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-12-13T00:00:00.000Z"
+    },
+    {
+      "id": 206,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 206",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-09-27T00:00:00.000Z"
+    },
+    {
+      "id": 207,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 207",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-11-10T00:00:00.000Z"
+    },
+    {
+      "id": 208,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 208",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-05-24T00:00:00.000Z"
+    },
+    {
+      "id": 209,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 209",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-02-09T00:00:00.000Z"
+    },
+    {
+      "id": 210,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 210",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-06-12T00:00:00.000Z"
+    },
+    {
+      "id": 211,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 211",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 212,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 212",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-01-09T00:00:00.000Z"
+    },
+    {
+      "id": 213,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 213",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-06-27T00:00:00.000Z"
+    },
+    {
+      "id": 214,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 214",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-08-01T00:00:00.000Z"
+    },
+    {
+      "id": 215,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 215",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-06-29T00:00:00.000Z"
+    },
+    {
+      "id": 216,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 216",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-03-05T00:00:00.000Z"
+    },
+    {
+      "id": 217,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 217",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-06-24T00:00:00.000Z"
+    },
+    {
+      "id": 218,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 218",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-03-17T00:00:00.000Z"
+    },
+    {
+      "id": 219,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 219",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-06-04T00:00:00.000Z"
+    },
+    {
+      "id": 220,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 220",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-08-02T00:00:00.000Z"
+    },
+    {
+      "id": 221,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 221",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-07-21T00:00:00.000Z"
+    },
+    {
+      "id": 222,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 222",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-03-18T00:00:00.000Z"
+    },
+    {
+      "id": 223,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 223",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-01-27T00:00:00.000Z"
+    },
+    {
+      "id": 224,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 224",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-05-25T00:00:00.000Z"
+    },
+    {
+      "id": 225,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 225",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-11-06T00:00:00.000Z"
+    },
+    {
+      "id": 226,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 226",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-04-16T00:00:00.000Z"
+    },
+    {
+      "id": 227,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 227",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-07-30T00:00:00.000Z"
+    },
+    {
+      "id": 228,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 228",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-02-12T00:00:00.000Z"
+    },
+    {
+      "id": 229,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 229",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-04-04T00:00:00.000Z"
+    },
+    {
+      "id": 230,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 230",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-03-06T00:00:00.000Z"
+    },
+    {
+      "id": 231,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 231",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-03-21T00:00:00.000Z"
+    },
+    {
+      "id": 232,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 232",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-05-30T00:00:00.000Z"
+    },
+    {
+      "id": 233,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 233",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-11-08T00:00:00.000Z"
+    },
+    {
+      "id": 234,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 234",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-09-12T00:00:00.000Z"
+    },
+    {
+      "id": 235,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 235",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-03-19T00:00:00.000Z"
+    },
+    {
+      "id": 236,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 236",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-08-21T00:00:00.000Z"
+    },
+    {
+      "id": 237,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 237",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-10-04T00:00:00.000Z"
+    },
+    {
+      "id": 238,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 238",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-03-17T00:00:00.000Z"
+    },
+    {
+      "id": 239,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 239",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-05-02T00:00:00.000Z"
+    },
+    {
+      "id": 240,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 240",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-02-21T00:00:00.000Z"
+    },
+    {
+      "id": 241,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 241",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-11-30T00:00:00.000Z"
+    },
+    {
+      "id": 242,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 242",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-12-16T00:00:00.000Z"
+    },
+    {
+      "id": 243,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 243",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-01-11T00:00:00.000Z"
+    },
+    {
+      "id": 244,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 244",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-02-13T00:00:00.000Z"
+    },
+    {
+      "id": 245,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 245",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-05-06T00:00:00.000Z"
+    },
+    {
+      "id": 246,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 246",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-12-10T00:00:00.000Z"
+    },
+    {
+      "id": 247,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 247",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-12-02T00:00:00.000Z"
+    },
+    {
+      "id": 248,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 248",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-02-14T00:00:00.000Z"
+    },
+    {
+      "id": 249,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 249",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-02-03T00:00:00.000Z"
+    },
+    {
+      "id": 250,
+      "title": "Algorithms for Core Data Analytics and Machine Learning 250",
+      "content": "Part of the Data Foundation activity is to promote overall research to produce novel algorithms and improve existing algorithms for data analytics and machine learning. Of specific interest is the effective application of these algorithms to socially relevant applications. Another interesting research problem is to analyze data that is distributed or federated, and cannot be brought into a centralized place due to privacy/security considerations, or due to sheer volume.\n\n    While deep neural networks (DNNs) have achieved high performance on a variety of tasks, there is still scope for improvement, especially in applications where data is scarce, costly or restricted. Research of interest includes generating good quality synthetic datasets, data augmentation methods, attacks on DNNs and identifying deep fakes, making DNNs robust to attacks and identification by augmenting datasets, building interpretable methods, etc.",
+      "publishedAt": "2023-09-11T00:00:00.000Z"
+    }
+  ]
+}
